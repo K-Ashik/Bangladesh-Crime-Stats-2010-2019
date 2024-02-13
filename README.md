@@ -1,7 +1,7 @@
 # Bangladesh Crime Stats 2010-2019
 
 <div style="text-align: center;">
-    <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/crime-022204-16x9.jpg?VersionId=iMYTlhoRY4.1HU4BYNi05glXnpoc_yX5&size=690:388" alt="animal" width="800" height="800">
+    <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/crime-022204-16x9.jpg?VersionId=iMYTlhoRY4.1HU4BYNi05glXnpoc_yX5&size=690:388" alt="animal" width="380" height="400">
 </div>
 
 ## Introduction
