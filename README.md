@@ -1,6 +1,8 @@
-# Crime Analysis Project
+# Bangladesh Crime Stats 2010-2019
 
-![Crime Analysis]([crime_analysis_image.jpg](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/crime-022204-16x9.jpg?VersionId=iMYTlhoRY4.1HU4BYNi05glXnpoc_yX5&size=690:388))
+<div style="text-align: center;">
+    <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/crime-022204-16x9.jpg?VersionId=iMYTlhoRY4.1HU4BYNi05glXnpoc_yX5&size=690:388" alt="animal" width="800" height="800">
+</div>
 
 ## Introduction
 
@@ -25,6 +27,6 @@ This project provides valuable insights into the crime landscape in Bangladesh a
 
 ## Acknowledgements
 
-Special thanks to [kaggle]([[https://example.com](https://www.kaggle.com/datasets/firozkabir1/crime-statistics-of-bangladesh-2010-2019)https://www.kaggle.com/datasets/firozkabir1/crime-statistics-of-bangladesh-2010-2019]) for providing the crime dataset used in this analysis.
+Special thanks to [Kaggle](https://www.kaggle.com/datasets/firozkabir1/crime-statistics-of-bangladesh-2010-2019) for providing the crime dataset used in this analysis.
 
 
